@@ -1,1 +1,1 @@
-Starting from the data, we wish to test the equality of the two means associated with with the mortality of the mosquitoes when exposed to the commercial and bioinsecticide coils and use the analysis of variance (ANOVA) test.  
+this is a  python script that the shown the calculation that was done.Starting from the data, we wish to test the equality of the two means associated with with the mortality of the mosquitoes when exposed to the commercial and bioinsecticide coils and use the analysis of variance (ANOVA) test.  
